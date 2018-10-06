@@ -29,7 +29,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
+      "url": "https://github.com/djm/heroku-buildpack-pgbouncer#2e105ac1a6409b9e512203d51659a26200b6c8fb"
     },
     {
       "url": "heroku/nodejs"
